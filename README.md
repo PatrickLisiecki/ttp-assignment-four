@@ -1,6 +1,6 @@
 # TTP Assignment 4
 
-Assignment for Tech Talent Pipeline Summer 2023 bootcamp
+Assignment for the Tech Talent Pipeline Summer 2023 Bootcamp
 
 ## Project Description
 
@@ -48,7 +48,7 @@ In this project, you will create a motivational poster generator where users can
 https://github.com/PatrickLisiecki/ttp-assignment-four
 ```
 
-2. Open the project directory:
+2. Open the project directory.
    
 3. Use the live server extension on the index.html file.
 
